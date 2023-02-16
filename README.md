@@ -36,7 +36,7 @@ Data visualization: Visualization of the data is an important part of the whole 
 
 -deliverd status comes with more % due store opened after lockdown.
 
--Top states are Maharashtra, Telengana , Karnataka, Delhi,Uttar pradesh , Tamil nadu who are contributing to sales.
+-Top states are Maharashtra, Telengana , Karnataka, Delhi,Uttar pradesh, Tamil nadu who are contributing to sales.
 
 -Adults are purchasing more in age group.
 
