@@ -28,6 +28,11 @@ Data visualization: Visualization of the data is an important part of the whole 
 
 
 ## Welcome to this project on Bhola superstore Report 
+ <p align="center">
+    <img src="Bhola Super store analysis/Excel files/Bhola Super store dashboard.png" width="600">
+</p>
+
+ 
  project Insights 
  
 -March , May and November got the highest sales.
